@@ -1,0 +1,1 @@
+import{j as s}from"./index-CuqXDEy-.js";function r({icon:t="bi-inbox",title:a,message:e,action:i}){return s.jsxs("div",{className:"cyber-empty-state",children:[s.jsx("i",{className:`bi ${t}`}),s.jsx("h4",{className:"mb-2",children:a}),e&&s.jsx("p",{className:"cyber-text-muted mb-3",children:e}),i]})}export{r as E};
